@@ -56,6 +56,12 @@ The goal is to strengthen public access to Canadian culture and heritage through
 
 ---
 
+## Live Examples
+
+* National directory: https://canada.museum.ca
+* Newfoundland and Labrador pilot: https://canada.museum.ca/nl
+* Example museum page: https://canada.museum.ca/museum/bank-of-canada-museum
+
 ## Technology Stack
 
 Built using:
@@ -70,7 +76,7 @@ The project also explores AI-assisted workflows for:
 * data normalization
 * multilingual support
 * metadata generation
-* operational automation
+* operational automation 
 
 ---
 
