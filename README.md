@@ -4,6 +4,8 @@
 
 🌐 [https://canada.museum.ca](https://canada.museum.ca)
 
+<img width="2560" height="2520" alt="image" src="https://github.com/user-attachments/assets/a7483a5b-e790-47e3-bd26-82c07dd99a33" />
+
 ---
 
 ## What is this?
