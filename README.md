@@ -62,6 +62,8 @@ The goal is to strengthen public access to Canadian culture and heritage through
 * Newfoundland and Labrador pilot: https://canada.museum.ca/nl
 * Example museum page: https://canada.museum.ca/museum/bank-of-canada-museum
 
+---
+
 ## Technology Stack
 
 Built using:
@@ -71,7 +73,7 @@ Built using:
 * Vercel
 * Google Maps Platform
 
-The project also explores AI-assisted workflows for:
+The project also explores responsible AI-assisted workflows for:
 
 * data normalization
 * multilingual support
