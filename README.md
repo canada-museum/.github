@@ -1,4 +1,3 @@
-
 # canada.museum
 
 **National discovery platform for Canadian museums, galleries, historic sites, and cultural institutions.**
@@ -62,12 +61,11 @@ The goal is to strengthen public access to Canadian culture and heritage through
 Built using:
 
 * Next.js
-* Supabase
-* PostgreSQL
+* Supabase (PostgreSQL)
 * Vercel
 * Google Maps Platform
 
-The project also experiments with responsible AI-assisted workflows for:
+The project also explores AI-assisted workflows for:
 
 * data normalization
 * multilingual support
